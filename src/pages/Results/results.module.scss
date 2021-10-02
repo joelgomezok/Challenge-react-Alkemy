@@ -1,0 +1,16 @@
+.container {
+  background-color: #022645;
+  border-radius: 5px;
+  width: 100%;
+  margin: 7% auto;
+  padding: 20px 10px;
+  .cardDeck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 5px;
+  }
+  p {
+    font-size: 30px;
+  }
+}

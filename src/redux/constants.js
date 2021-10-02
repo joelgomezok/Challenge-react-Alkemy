@@ -1,0 +1,2 @@
+export const SET_TEAM_MEMBER = "SET_TEAM_MEMBER";
+export const REMOVE_TEAM_MEMBER = "REMOVE_TEAM_MEMBER";

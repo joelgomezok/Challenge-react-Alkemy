@@ -1,0 +1,38 @@
+.footers{
+    margin-top: 5%
+}
+.Div{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.Nav{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    padding: 0%;
+}
+.Link{
+    text-decoration: none;
+    justify-content: center;
+    margin: 2rem;
+    color:black;
+    object-fit: cover;
+    width: 3%;
+    height: 100%;
+    transition: all 0.2s ease-in-out;
+      &:hover {
+        transform: translateY(-3px);
+        cursor: pointer;
+      }
+    } 
+.Span{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1%;
+    color:white;
+}
