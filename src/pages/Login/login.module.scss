@@ -1,5 +1,6 @@
 .container {
   margin: 10% auto;
+
   width: 30%;
   border: 1px solid #134877;
   border-radius: 5px;
@@ -12,7 +13,7 @@
     flex-direction: column;
 
     input {
-      margin-bottom: 12px;
+      
       border: 1px solid black;
       border-radius: 3px;
       width: 100%;
@@ -33,7 +34,7 @@
       cursor: pointer;
 
       &:hover {
-        transform: scale(1.05);
+        transform: translateY(-2px);
       }
     }
     .error {
@@ -41,6 +42,7 @@
       border-radius: 3px;
       text-align: center;
       padding: 5px;
+      margin: 5px 0px;
       background-color: #d9534f;
     }
   }
