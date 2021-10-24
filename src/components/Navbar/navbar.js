@@ -24,7 +24,7 @@ const Navbar = () => {
             <form className={styles.Form} onSubmit={submitHero}>
                 <div className={styles.Nlink}>
                     <Link style={{textDecoration: 'none'}} to="/" >
-                      <h2 className={styles.H1}> Your Team </h2> 
+                      <h2 className={styles.H1}> Team </h2> 
                     </Link>
                 </div>
                 <input className={styles.Input}
