@@ -8,11 +8,13 @@
 ## Tech Stack
 <li>React</li>
 <li>Redux</li>
+<li>Bootstrap</li>
 <li>React-route.dom</li>
 <li>Node.Js</li>
 <li>Express</li>
 <li>Axios</li>
 <li>Sass</li>
+<li>Formik</li>
 
 
 ## Demo
