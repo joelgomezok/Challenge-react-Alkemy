@@ -16,4 +16,4 @@
 
 
 ## Demo
-https://superheroteam.herokuapp.com/
+https://superherosteams.herokuapp.com/
